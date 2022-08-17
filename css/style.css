@@ -1,0 +1,19 @@
+.navbar{
+  border-bottom: 4px solid #917046; 
+}
+.nav link{
+    font-size: 1.5rem;
+}
+header{
+    min-height: 100vh;
+    background:  linear-gradient(rgba(0, 0, 0, 0.7) , rgba(0, 0, 0, 0.7)),
+     url(../images/pexels2.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-top:200px;
+    
+}
+h1{
+    color: white;
+}
+
